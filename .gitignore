@@ -1,0 +1,7 @@
+node_modules
+.nyc_output
+build
+coverage
+.env
+.DS_Store
+src/.DS_Store
